@@ -1,3 +1,3 @@
 # Calculator 
 
-this application uses various algorithms
+this application uses various algorithmss
